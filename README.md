@@ -37,4 +37,4 @@
 
 ## Support Me
 
-[![SOCIABUZZ](https://img.shields.io/badge/DONATE-SOCIABUZZ-brightgreen?style=for-the-badge)](https://sociabuzz.com/russellraders/donate)
+[![SOCIABUZZ](https://img.shields.io/badge/DONATE-SOCIABUZZ-brightgreen?style=for-the-badge)](https://sociabuzz.com/russell/donate)
